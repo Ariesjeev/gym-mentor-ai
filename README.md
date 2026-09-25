@@ -1,0 +1,1 @@
+# 🏋️‍♂️ GymMentor AI — Real-Time AI Fitness Coach
